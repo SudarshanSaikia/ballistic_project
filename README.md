@@ -35,7 +35,7 @@ We have used deep learning to automate and accelarate this process.
 
 Contributions are always welcome! 
 
-Demo video for the project: https://google.com
+Demo video for the project: https://drive.google.com/file/d/1g8dNxXOtO_gRaEod1ePAwDTXXYolVR87/view?usp=sharing
 
 
 ## :man_astronaut: Show your support
