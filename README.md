@@ -11,6 +11,7 @@
 
 ## Contents
   - INTRODUCTION about the Project
+  - Contribution of the Study
   - Workflow
   - Results
  
@@ -22,6 +23,17 @@ The main objective for any bullet projectile is to reach the maximum rangewith h
 The novelty of the study donot lie in the techniques used but the framework that is followed and the domainin which this framework is utilized.
 
 The  proposed  method  can  aid  the  ballisticexperts in the firearm identification process.  The otherwise manual process canbe enhanced by reducing the time and effort required by providing automatedassistance  to  the  experts.
+
+## Contribution of the Study
+
+This study highlights the possibilities of the application of deep learning inforensic  science. The study analyses the performance of three deep learningbased semantic segmentation architectures.The main contributions of this study are:
+
+1.Automated segmentation of striations using Deep Learning techniques: U-net is taken as the base architecture for semantic segmentation of the striation marks from the fired bullet’s surface. Two other variants of U-Net are also tested for doing the same task, and their performance is analyzed in great detail.
+
+2.Visualization of the network’s decision-making: Class activation maps of both the original masked image and the segmented masked image produced by each model are generated for visualizing the region of interest i.e the portion containing the striations.
+
+3.Statistical analysis of models: Histograms of the resulting class activation maps are generated. The three architecture performances are statistically analyzed based on the generated histograms. The analysis includes measures such as the standard derivation, Peak signal-to-noise ratio(PSNR), Correlation, etc.
+
 ## Workflow
 
 
